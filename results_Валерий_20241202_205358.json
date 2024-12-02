@@ -1,0 +1,11 @@
+{
+    "username": "Валерий",
+    "answers": {
+        "open": true,
+        "think": true,
+        "make": true,
+        "believe": true,
+        "feel": true
+    },
+    "rank": "Отлично"
+}
